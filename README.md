@@ -27,3 +27,8 @@ alembic upgrade head
 ```shell
 python3 main.py
 ```
+
+## Docs location:
+> http://localhost:8000/docs
+
+> http://localhost:8000/redoc
