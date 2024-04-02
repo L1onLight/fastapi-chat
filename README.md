@@ -25,7 +25,7 @@ alembic upgrade head
 ## Run
 
 ```shell
-python3 main.py
+python main.py
 ```
 
 ## Docs location:
